@@ -17,7 +17,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: gut0ddy
+          github_user_name: GUTOFAR1AS 
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       # Atualiza o GitHub Pages com os arquivos gerados
