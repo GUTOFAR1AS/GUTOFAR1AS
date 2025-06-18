@@ -7,7 +7,7 @@
 
 <div align="center"><br>
   <!-- Favorite Languages Icons Animation -->
-  <img src="https://skillicons.dev/icons?i=js,ts,java,kotlin,spring,flutter,angular,docker,maven,dart&theme=dark&perline=5" alt="Languages Icons"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,kotlin,spring,flutter,angular,docker,maven&theme=dark&perline=5" alt="Languages Icons"/>
 </div>
 
 <div align="center">
