@@ -1,11 +1,3 @@
-<!-- Most Used Languages -->
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutofar1as&layout=compact&theme=radical&langs_count=10&hide_border=true" 
-    alt="Top Languages"
-  />
-</div>
-
 <br>
 
 <!-- Favorite Technologies Icons -->
